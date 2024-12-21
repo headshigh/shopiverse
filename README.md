@@ -21,4 +21,3 @@ pnpm dev
 - [ ] Fix fetch shops functionality
 - [ ] Fix fetch products by shop
 - [ ] Setup a new application for video/Audio calling
-- [ ] 
