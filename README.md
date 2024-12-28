@@ -15,8 +15,7 @@ pnpm dev
 ## Using this example
 
 
-##TODO 
-- [ ] Setup NextAuth
+## TODO 
 - [ ] Setup Cart functionality
 - [ ] Fix fetch shops functionality
 - [ ] Fix fetch products by shop
