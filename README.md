@@ -19,4 +19,4 @@ pnpm dev
 - [ ] Setup Cart functionality
 - [ ] Fix fetch shops functionality
 - [ ] Fix fetch products by shop
-- [ ] Setup a new application for video/Audio calling
+- [ ] Admin dashboard to allow vendors to add shops and products and go live functionlity for admins to sell their products
